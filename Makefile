@@ -3,6 +3,7 @@
 all: build pdf
 
 build:
+	if [ -d "out/" ]; then rm -Rf out/; fi
 	mkdir -p out
 	cp -r static/ out/static/
 

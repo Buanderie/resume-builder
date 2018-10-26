@@ -1,14 +1,14 @@
 ---
-pagetitle: 'Cover Letter - Daniel S. Marshall'
-author: 'Daniel S. Marshall'
-date: 2017-01-01
+pagetitle: 'Cover Letter - Nicolas Said'
+author: 'Nicolas Said'
+date: 2018-10-26
 ---
 
-# Daniel S. Marshall
+# Nicolas Said
 ## Your Info {.heading-you .hide}
-Oakville, Ontario\
-905 849 0586\
-daniel.marshall@gmail.com
+Aix-en-Provence, France\
++33 (0) 6 85 17 68 10\
+nicolas.said@gmail.com
 
 ## {.divider}
 
@@ -43,4 +43,4 @@ Regards,
 
 ![](static/sig.png)
 
-Daniel S. Marshall
+Nicolas Said
